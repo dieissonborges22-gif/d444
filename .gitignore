@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+Wan-Animate-2/
+ckpts/
+.cache/
+.DS_Store
