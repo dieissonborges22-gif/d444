@@ -70,6 +70,10 @@ MotionFlow-WanAnimate2/
 └── .gitignore
 ```
 
+## Evolução da versão 2
+
+O plano de evolução está em [`docs/PLANO_V2.md`](docs/PLANO_V2.md). A versão 2 vai separar a interface do motor de geração e validar um backend alternativo mais leve antes de criar um notebook de nuvem. Isso evita prometer compatibilidade ou geração gratuita ilimitada sem testar uma GPU real.
+
 ## Fontes e licenças
 
 - Código e instruções oficiais: https://github.com/Wan-Video/Wan-Animate-2
